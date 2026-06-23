@@ -7,25 +7,25 @@
 
 - Python plugin dependencies
 
-- Web Core
+<br> Web Core <br>
 pip3 install fastapi uvicorn[standard] jinja2 python-multipart
 
-- Installation Authentication
+<br> Installation Authentication <br>
 pip3 install passlib[bcrypt] python-jose[cryptography]
 
-- Managing YAML
+<br> Managing YAML <br>
 pip3 install pyyaml deepdiff python-dotenv
 
-- Connect to LDAP
+<br> Connect to LDAP <br>
 pip3 install ldap3
 
-- Systemd & Shell Control
+<br> Systemd & Shell Control <br>
 pip3 install psutil asyncio
 
-- HTTPS Enhancements
+<br> HTTPS Enhancements <br>
 pip3 install httpx aiofiles orjson
 
-- Development and Debugging
+<br> Development and Debugging <br>
 pip3 install loguru rich
 
 <br> Thanks to AI tools, even seemingly insignificant small operations and maintenance tools can make my grand dream come true. <br>
