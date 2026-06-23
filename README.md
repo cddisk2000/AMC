@@ -6,36 +6,27 @@
 - Python Version: 3.11 
 
 - Python plugin dependencies
-# Web Core
-pip3 install fastapi uvicorn[standard]
-pip3 install jinja2
-pip3 install python-multipart
 
-# Installation Authentication
+Web Core
+pip3 install fastapi uvicorn[standard] jinja2 python-multipart
 
-pip3 install passlib[bcrypt]
-pip3 install python-jose[cryptography]
+Installation Authentication
+pip3 install passlib[bcrypt] python-jose[cryptography]
 
-#Managing YAML
-pip3 install pyyaml
-pip3 install deepdiff
-pip3 install python-dotenv
+Managing YAML
+pip3 install pyyaml deepdiff python-dotenv
 
-#Connect to LDAP
+Connect to LDAP
 pip3 install ldap3
 
-#Systemd & Shell Control
-pip3 install psutil
-pip3 install asyncio
+Systemd & Shell Control
+pip3 install psutil asyncio
 
-# HTTPS Enhancements
-pip3 install httpx
-pip3 install aiofiles
-pip3 install orjson
+HTTPS Enhancements
+pip3 install httpx aiofiles orjson
 
-# Development and Debugging
-pip3 install loguru
-pip3 install rich
+Development and Debugging
+pip3 install loguru rich
 
 <br> Thanks to AI tools, even seemingly insignificant small operations and maintenance tools can make my grand dream come true. <br>
 
