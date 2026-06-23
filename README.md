@@ -1,7 +1,6 @@
 - Author: ChatGPT
+
 - The management interface was developed based on https://github.com/authelia/authelia.
-
-
 
 - Python Version: 3.11 
 
